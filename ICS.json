@@ -33,6 +33,147 @@
 	"hideDisabled": false,
 	"techniques": [
 		{
+			"techniqueID": "T0881",
+			"tactic": "inhibit-response-function",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0800",
+			"tactic": "inhibit-response-function",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0814",
+			"tactic": "inhibit-response-function",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0801",
+			"tactic": "collection",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0853",
+			"tactic": "execution",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0888",
+			"tactic": "discovery",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0819",
+			"tactic": "initial-access",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0842",
+			"tactic": "discovery",
+			"score": 4,
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0851",
+			"tactic": "evasion",
+			"color": "#c7e9c0",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0851",
+			"tactic": "inhibit-response-function",
+			"color": "#c7e9c0",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0855",
+			"tactic": "impair-process-control",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0872",
+			"tactic": "evasion",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0871",
+			"tactic": "execution",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0862",
+			"tactic": "initial-access",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
 			"techniqueID": "T0865",
 			"tactic": "initial-access",
 			"score": 4,
@@ -44,9 +185,255 @@
 			"showSubtechniques": false
 		},
 		{
+			"techniqueID": "T0817",
+			"tactic": "initial-access",
+			"color": "#c7e9c0",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0866",
+			"tactic": "initial-access",
+			"score": 3,
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0866",
+			"tactic": "lateral-movement",
+			"score": 3,
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0812",
+			"tactic": "lateral-movement",
+			"color": "#c7e9c0",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0822",
+			"tactic": "initial-access",
+			"score": 3,
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0874",
+			"tactic": "execution",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0874",
+			"tactic": "privilege-escalation",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
 			"techniqueID": "T0848",
 			"tactic": "initial-access",
 			"color": "#c6dbef",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0834",
+			"tactic": "execution",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0857",
+			"tactic": "persistence",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0857",
+			"tactic": "inhibit-response-function",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0849",
+			"tactic": "evasion",
+			"score": 4,
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0847",
+			"tactic": "initial-access",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0890",
+			"tactic": "privilege-escalation",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0846",
+			"tactic": "discovery",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0869",
+			"tactic": "command-and-control",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0886",
+			"tactic": "initial-access",
+			"score": 3,
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0886",
+			"tactic": "lateral-movement",
+			"score": 3,
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0885",
+			"tactic": "command-and-control",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0873",
+			"tactic": "persistence",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0867",
+			"tactic": "lateral-movement",
+			"color": "#c7e9c0",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0839",
+			"tactic": "persistence",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0839",
+			"tactic": "impair-process-control",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0893",
+			"tactic": "collection",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0889",
+			"tactic": "persistence",
+			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
