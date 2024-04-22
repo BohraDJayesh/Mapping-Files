@@ -1,4 +1,3 @@
-[
   {
     "name": "Suricata rules coverage",
     "versions": {
@@ -2569,4 +2568,3 @@
     "selectSubtechniquesWithParent": false,
     "selectVisibleTechniques": false
   }
-]
