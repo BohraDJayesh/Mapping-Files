@@ -939,6 +939,16 @@
 			"showSubtechniques": false
 		},
 		{
+			"techniqueID": "T1119",
+			"tactic": "collection",
+			"color": "#a1d99b",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
 			"techniqueID": "T1115",
 			"tactic": "collection",
 			"color": "#fcf3a2",
@@ -1021,6 +1031,16 @@
 		{
 			"techniqueID": "T1195",
 			"tactic": "initial-access",
+			"color": "#fcf3a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1555",
+			"tactic": "credential-access",
 			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
